@@ -10,3 +10,6 @@ hello! is from Me "Dev" i have project in "replit"! can you support i'm beginner
 i's my Second acount!
 
 for you information! "I'm using a cellphone or android btw ehhehe!."
+
+F.secret
+"there is a Secret konami code!!"
